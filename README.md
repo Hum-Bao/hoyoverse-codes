@@ -11,9 +11,9 @@
 
 | Game                | Codes Link                 |
 |---------------------|---------------------------|
-| **Honkai: Star Rail (HSR)**       | [View Codes](./hsr.txt)   |
-| **Genshin Impact**  | [View Codes](./genshin.txt)|
-| **Zenless Zone Zero (ZZZ)** | [View Codes](./zzz.txt)        |
+| **Honkai: Star Rail (HSR)**       | [View Codes](./HSR.txt)   |
+| **Genshin Impact**  | [View Codes](./GENSHIN.txt)|
+| **Zenless Zone Zero (ZZZ)** | [View Codes](./ZZZ.txt)        |
 
 ## Source Code
 The backend powering this list is open source: [View on GitHub](https://github.com/Hum-Bao/hoyoverse-codes-backend)
